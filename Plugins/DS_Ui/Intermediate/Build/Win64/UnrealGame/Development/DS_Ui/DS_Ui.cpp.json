@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\test\\kgca41teamproject\\plugins\\ds_ui\\source\\ds_ui\\private\\ds_ui.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\test\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamproject\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\test\\kgca41teamproject\\plugins\\ds_ui\\intermediate\\build\\win64\\unrealgame\\development\\ds_ui\\definitions.ds_ui.h",
+            "d:\\test\\kgca41teamproject\\plugins\\ds_ui\\source\\ds_ui\\public\\ds_ui.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

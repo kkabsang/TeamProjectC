@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\test\\kgca41teamproject\\plugins\\jw_effect\\source\\jw_effect\\private\\jw_effect.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\test\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamproject\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\test\\kgca41teamproject\\plugins\\jw_effect\\intermediate\\build\\win64\\unrealgame\\debuggame\\jw_effect\\definitions.jw_effect.h",
+            "d:\\test\\kgca41teamproject\\plugins\\jw_effect\\source\\jw_effect\\public\\jw_effect.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

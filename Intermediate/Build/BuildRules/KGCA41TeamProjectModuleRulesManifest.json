@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"E:\\BGM\\KGCA40CTeam\\Source\\KGCA41TeamProject\\KGCA41TeamProject.Build.cs",
+		"E:\\BGM\\KGCA40CTeam\\Plugins\\Character\\Soo_Character\\Source\\Soo_Character\\Soo_Character.Build.cs",
+		"E:\\BGM\\KGCA40CTeam\\Plugins\\DS_Ui\\Source\\DS_Ui\\DS_Ui.Build.cs",
+		"E:\\BGM\\KGCA40CTeam\\Plugins\\JW_Effect\\Source\\JW_Effect\\JW_Effect.Build.cs",
+		"E:\\BGM\\KGCA40CTeam\\Plugins\\SH_Map\\Source\\SH_Map\\SH_Map.Build.cs",
+		"E:\\BGM\\KGCA40CTeam\\Plugins\\Soo_Ai\\Source\\Soo_Ai\\Soo_Ai.Build.cs",
+		"E:\\BGM\\KGCA40CTeam\\Source\\KGCA41TeamProject.Target.cs",
+		"E:\\BGM\\KGCA40CTeam\\Source\\KGCA41TeamProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

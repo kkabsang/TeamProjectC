@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\bgm\\kgca40cteam\\plugins\\soo_ai\\source\\soo_ai\\private\\soo_ai.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\bgm\\kgca40cteam\\intermediate\\build\\win64\\kgca41teamprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\bgm\\kgca40cteam\\plugins\\soo_ai\\intermediate\\build\\win64\\unrealeditor\\development\\soo_ai\\definitions.soo_ai.h",
+            "e:\\bgm\\kgca40cteam\\plugins\\soo_ai\\source\\soo_ai\\public\\soo_ai.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
